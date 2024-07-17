@@ -1,0 +1,9 @@
+diff a/script.py b/script.py	(rejected hunks)
+@@ -2,4 +2,4 @@
+ print(300 * 258 / 78)
+ print("こんにちは")
+ print("Good bye")
+-print("source tree change test")
+\ No newline at end of file
++print("source tree test")
+\ No newline at end of file
